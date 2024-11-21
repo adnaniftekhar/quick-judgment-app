@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SwipeCard Component matches snapshot 1`] = `
+<View
+  style={
+    [
+      {
+        "height": "100%",
+        "padding": 10,
+        "position": "absolute",
+        "width": 375,
+      },
+      {
+        "transform": [
+          {
+            "rotate": "rotate",
+          },
+        ],
+      },
+    ]
+  }
+>
+  Card
+</View>
+`;

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1732208938433" clover="3.2.0">
+  <project timestamp="1732208938434" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="9" coveredconditionals="9" methods="10" coveredmethods="10" elements="49" coveredelements="49" complexity="0" loc="30" ncloc="30" packages="1" files="2" classes="2"/>
+    <file name="Card.js" path="/Users/aiftekhar/Desktop/quickjudgement/quick-judgment-app/frontend/src/components/Card.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="SwipeCard.js" path="/Users/aiftekhar/Desktop/quickjudgement/quick-judgment-app/frontend/src/components/SwipeCard.js">
+      <metrics statements="27" coveredstatements="27" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="9" type="stmt"/>
+      <line num="12" count="9" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="28" count="9" type="stmt"/>
+      <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="37" count="9" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="42" count="9" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="49" count="9" type="stmt"/>
+      <line num="50" count="9" type="stmt"/>
+      <line num="55" count="9" type="stmt"/>
+      <line num="61" count="9" type="stmt"/>
+      <line num="71" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Component matches snapshot with styles 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#fff",
+      "borderRadius": 8,
+      "elevation": 2,
+      "padding": 15,
+      "shadowColor": "#000",
+      "shadowOpacity": 0.1,
+      "shadowRadius": 4,
+    }
+  }
+  testID="card-container"
+>
+  <Text
+    style={
+      {
+        "color": "#333",
+        "fontSize": 16,
+      }
+    }
+    testID="card-text"
+  >
+    Snapshot test
+  </Text>
+</View>
+`;
