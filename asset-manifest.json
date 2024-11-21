@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/quick-judgment-app/static/js/main.0f47a990.js",
+    "static/js/337.2b50d7bc.js": "/quick-judgment-app/static/js/337.2b50d7bc.js",
+    "index.html": "/quick-judgment-app/index.html",
+    "serve.json": "/quick-judgment-app/serve.json",
+    "manifest.json": "/quick-judgment-app/manifest.json",
+    "main.0f47a990.js.map": "/quick-judgment-app/static/js/main.0f47a990.js.map",
+    "337.2b50d7bc.js.map": "/quick-judgment-app/static/js/337.2b50d7bc.js.map"
+  },
+  "entrypoints": [
+    "static/js/337.2b50d7bc.js",
+    "static/js/main.0f47a990.js"
+  ]
+}
